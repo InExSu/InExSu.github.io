@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+Попов Михаил
 
-You can use the [editor on GitHub](https://github.com/InExSu/InExSu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Язык программирования, ООП
+Укажите, какие книги по выбранному языку вы прочитали, какие курсы проходили, возможно, практиковались в университете. Дайте 2-3 примера вашего кода, где вы используете все три концепции ООП (инкапсуляция, наследование, полиморфизм).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ясный код
+Укажите, какие ключевые книги вы изучили по стилю программирования, и дайте ссылки на примеры вашего кода, выполненного в правильном стиле (не менее нескольких сотен строк кода).
 
-### Markdown
+Алгоритмы и структуры данных
+Приведите ссылки на вашу практику по этим темам.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Платформа разработки
+Уточните, какую платформу разработки вы выбрали. Не разбрасывайтесь, сконцентрируйтесь на одной, максимум двух платформах. Приведите примеры вашего кода, связанные со спецификой выбранной платформы.
 
-```markdown
-Syntax highlighted code block
+Стек
+Уточните, какой фреймворк (а лучше стек) вы выбрали. Подготовьте хотя бы один проект, полностью выполненный в этом стеке/на этом фреймворке.
 
-# Header 1
-## Header 2
-### Header 3
+Базы данных
+Перечислите базы данных, с которыми вы работали, разместите на гитхабе несколько примеров SQL-кода для каких-нибудь задачек.
 
-- Bulleted
-- List
+Облачные технологии
+Желательно привести небольшие проекты, выполненные в облачных стеках Amazon или Google.
 
-1. Numbered
-2. List
+Тестирование
+Сопровождайте все свои примеры кода как минимум модульными тестами.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/InExSu/InExSu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Методологии разработки
+Укажите, имеете ли вы опыт разработки с какими-то методологиями, или хотя бы пытались программировать по ним самостоятельно.

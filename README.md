@@ -25,7 +25,7 @@
 
 ## Портфолио:
 * Диаграмма Ганта масштабируемая
-* Матрица смежности кода 
-* Сравнение прайсов без надстроек - открыл два файла и сравнил
-* Парсер sbis.ru
-* Парсер Яндекс.Карты (без API)
+* [Матрица смежности кода](https://www.youtube.com/watch?v=_YXaHfClLjw) 
+* [Сравнение прайсов без надстроек](https://www.youtube.com/watch?v=mSkQlLrmxDg) - открыл два файла и сравнил
+* [Парсер](https://www.youtube.com/watch?v=B1X4LPZVmPk) sbis.ru
+* [Парсер](https://www.youtube.com/watch?v=xNIeEQcu4YU) Яндекс.Карты (без API)
